@@ -8,6 +8,7 @@
 	<link href="https://fonts.googleapis.com/css2?family=Quicksand&display=swap" rel="stylesheet">
 	<link rel="preconnect" href="https://fonts.gstatic.com">
     <link rel="stylesheet" href="css/estilos.css">
+	
 	<link rel="stylesheet" href="css/animate.css">
 
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
@@ -19,40 +20,60 @@
 
 <body>
 <header>
-			<nav class="main-nav">
+			
 
+			<!--NAV BAR 2 -->
+
+
+			<nav class="navbar navbar-expand-sm">
+				<!-- Brand -->
+				
 				<div class="logo">
 					<p><a href="index.html">LOWA</a></p>
 				</div>
+			  
+				<!-- Links -->
+				<ul class="navbar-nav">
+					<!-- Dropdown -->
+				   <li class="nav-item dropdown">
+						<a class="nav-link dropdown-toggle" href="Shop.html" id="navbardrop" data-toggle="dropdown">
+						  Shop
+						</a>
+						<div class="dropdown-menu">
+						<a class="dropdown-item" href="#">All</a>
+						<a class="dropdown-item" href="#">Conjuntos</a>
+						<a class="dropdown-item" href="#">Tops</a>
+						<a class="dropdown-item" href="#">Calzas</a>
+						</div>
+				   </li>
+				   <li class="nav-item">
+						<a class="nav-link" href="tablademedidas.html">Tabla de medidas</a>
+				   </li>
 
-				
-				<div class="main-nav ul">
-				<ul>
-					    <li class="dropdown">
-					    <a href="Shop.html" class="dropbtn">Shop</a>
-					        <div class="dropdown-content">
-						    <a href="#">All</a>
-						    <a href="#">Conjuntos</a>
-					     	<a href="#">Tops</a>
-					    	<a href="#">Calzas</a>
-	                        </div>
-						<li><a href="tablademedidas.html">Tabla de medidas</a></li>
-						<li><a href="comocomprar.html">Como comprar</a></li>
-						<li><a href="preguntasfrecuentes.html">Preguntas frecuentes</a></li>
-						<li><a href="contacto.html">Contacto</a></li>					
+				   <li class="nav-item">
+						<a class="nav-link" href="comocomprar.html">Como comprar</a>
+				   </li>
+
+				   <li class="nav-item">
+						<a class="nav-link" href="preguntasfrecuentes.html">Preguntas frecuentes</a>
+				   </li>
+
+				   <li class="nav-item">
+						<a class="nav-link" href="contacto.html">Contacto</a>
+				   </li>
+			   
 				</ul>
-				</div>
-				
 
 				<div class="main-nav-form">
-				<form>
-					<input type="search" placeholder="...">
-					<button>Buscar</button>
-			    </form>
+					<form>
+						<input type="search" placeholder="...">
+						<button>Buscar</button>
+					</form>
 				</div>
 
-			</nav>
-	
+			  </nav>
+			  
+			
 </header>
 
 <!--CAROUSEL -->
