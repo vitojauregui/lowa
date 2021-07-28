@@ -10,7 +10,7 @@
 
 .logo p a {
   color: #a8a8a8;
-  font-size: 30px; 
+  font-size: 60px; 
   text-decoration: none;
   display: flex;  
   flex-direction: row; 
@@ -80,8 +80,8 @@ li a, .dropbtn {
 }
 .main-nav button {
   background: white;
-  border: 0;
-  border-radius: 1em;
+  border: 20px;
+  border-radius: 20px;
   color:#a8a8a8;
   padding: 0 1em;
   margin-left: .3em;
@@ -252,9 +252,9 @@ a:hover {
 	font-style: italic;
 }
 
-.ListaComoComprar {padding: 40px; color: #a8a8a8; font-size: 20px; text-align: left; list-style-position:initial;}
+.ListaComoComprar {padding: 40px; color: #a8a8a8; font-size: 18px; text-align: left; list-style-position:initial;}
 
-.formulario {padding: 40px; color: #a8a8a8; font-size: 20px;}
+.formulario {padding: 30px; color: #a8a8a8; font-size: 18px;}
 
 .form-shop {margin-left: 10px;}
 
@@ -265,7 +265,7 @@ a:hover {
 /*gradiente COMO COMPRAR*/
 
 #grad {
- background-image: linear-gradient(#fbebff, #d8afe2);
+ background-image: linear-gradient(violet, #d8afe2);
 }
 
 /*Animación*/
