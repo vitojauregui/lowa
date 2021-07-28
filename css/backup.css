@@ -43,29 +43,7 @@ h3{color:#ebcbc3; text-transform: uppercase;}
 
 /*menu shop tabla medidas como comprar etc*/
 
-.main-nav ul { 
-  list-style-type: none;
-  display: flex;  
-  flex-direction: row; 
-  justify-content: center;
-  
- 
-    }
 
-.main-nav ul li a {
-      color: #a8a8a8; 
-      font-size: 13px; 
-      text-decoration: none;
-      text-transform: uppercase;
-      text-align: center;
-      font-weight: bold;
-      letter-spacing: 1px;
-      }
-  
-  
-  .main-nav ul li a:hover {
-       color: #ebcbc3; 
-      text-decoration: none;}
 
 
  

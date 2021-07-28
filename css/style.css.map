@@ -1,1 +1,1 @@
-{"version":3,"sourceRoot":"","sources":["../scss/style.scss"],"names":[],"mappings":"AAAA;EACI;;AAEA;EACI;;AAEA;EACI;;AAEA;EACU;;AAMlB;EAhBJ;IAiBQ","file":"style.css"}
+{"version":3,"sourceRoot":"","sources":["../scss/_tablamedidas.scss"],"names":[],"mappings":"AAAA;EACI;EACA;EACA;EACA;;;AAKF;EACM;EACA;EACA;EACA;EACA;EACA;EACA;;;AAIJ;EACK;EACD","file":"style.css"}
