@@ -1,3 +1,19 @@
-p{
-    color: aliceblue;
+section {
+  background-color: tomato;
 }
+section h1 {
+  color: black;
+}
+section h1 a {
+  text-decoration: underline;
+}
+section h1 a:hover {
+  text-decoration: none;
+}
+@media (max-width: 768px) {
+  section {
+    background-color: khaki;
+  }
+}
+
+/*# sourceMappingURL=style.css.map */

@@ -1,0 +1,21 @@
+section {
+    background-color: tomato;
+
+    h1 {
+        color: black;
+        
+        a { 
+            text-decoration: underline;
+        
+            &:hover {
+                      text-decoration: none;
+            }
+        }
+    
+    }
+
+    @media (max-width: 768px) {
+        background-color: khaki;
+    }
+
+}
