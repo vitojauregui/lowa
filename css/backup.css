@@ -1,28 +1,8 @@
 
-h1{color: violet; margin: 10px; text-transform: uppercase;}
-
-h2{color: violet;text-transform: uppercase;
-     } 
-
-h3{color:#ebcbc3; text-transform: uppercase;}
 
 
 
 
-
-/*menu main-nav*/
-
-.header {
- background-color: white;
- height: 30px;
-
-}
-
-.main-nav{
-  display:flex;
-  background-color: white;
-   
-}
 
 
 /*logo main-nav*/
@@ -39,9 +19,6 @@ h3{color:#ebcbc3; text-transform: uppercase;}
   }
 
 
-
-
-/*menu shop tabla medidas como comprar etc*/
 
 
 

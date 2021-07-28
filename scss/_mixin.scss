@@ -1,0 +1,18 @@
+@mixin  card-body ($fondo){
+    background-color: $fondo;
+    
+}
+
+.card-body1{
+    @include card-body(#e9baf4);
+}
+
+.card-body2{
+    @include card-body(#d8afe2);
+}
+
+.card-body3{
+    @include card-body(#b89bbf);
+}
+    
+
