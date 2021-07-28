@@ -1,0 +1,18 @@
+$colorbg: #f4f4f4;
+$width: 200px;
+$w2: $width +20px;
+
+body{
+    background-color: $colorbg;
+}
+
+h1{
+    color: $colorbg;
+    background-color: grey;
+    padding: 15px;
+    width: $width;
+}
+
+p{
+    width: $w2;
+}

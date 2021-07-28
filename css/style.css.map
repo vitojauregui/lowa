@@ -1,1 +1,1 @@
-{"version":3,"sourceRoot":"","sources":["../scss/_tablamedidas.scss"],"names":[],"mappings":"AAAA;EACI;EACA;EACA;EACA;;;AAKF;EACM;EACA;EACA;EACA;EACA;EACA;EACA;;;AAIJ;EACK;EACD","file":"style.css"}
+{"version":3,"sourceRoot":"","sources":["../scss/_tablamedidas.scss","../scss/_background.scss","../scss/_mapas.scss"],"names":[],"mappings":";AAAA;EACI;EACA;EACA;EACA;;;AAKF;EACM;EACA;EACA;EACA;EACA;EACA;EACA;;;AAIJ;EACK;EACD;;;AClBR;EACI,kBALM;;;AAQV;EACI,OATM;EAUN;EACA;EACA,OAXI;;;AAcR;EACI,OAdC;;;ACFL;AAQA;AAYC;EACI;;;AAGJ;EACG","file":"style.css"}

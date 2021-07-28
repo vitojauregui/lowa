@@ -1,0 +1,27 @@
+/* Mapas */
+
+$Social: (
+    youtube: #b00,
+    facebook: #3b5998,
+    instagram: #517fa4,
+);
+
+/* Mapa y uso común*/
+
+$standard: (
+    color-standard: #ccc,
+    bg-color-standard: #517fa4,
+ );
+
+ $premium: (
+     color-premium: #ccc,
+     bg-color-premium: #3b5998, 
+ );
+
+ .standard {
+     background-color: map-get($standard , bg-color-standard );
+ }
+
+ .premium {
+    background-color: map-get($premium, bg-color-premium );
+ }
