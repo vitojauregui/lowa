@@ -1,18 +1,23 @@
 @mixin  card-body ($fondo){
-    background-color: $fondo;
-    
+    background-color: $fondo; 
 }
 
 .card-body1{
-    @include card-body(#e9baf4);
+    @include card-body(#f7e0fc); 
 }
 
 .card-body2{
-    @include card-body(#d8afe2);
+    @include card-body(#ead8ef);
 }
 
 .card-body3{
-    @include card-body(#b89bbf);
+    @include card-body(#dccde0);
 }
     
 
+.card-text{
+    margin:inherit;
+}
+.card-title{
+    margin:inherit;
+}

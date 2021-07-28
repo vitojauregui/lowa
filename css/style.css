@@ -22,11 +22,11 @@
 }
 
 body {
-  background-color: #f4f4f4;
+  background-color: #fef8ff;
 }
 
 h1 {
-  color: #f4f4f4;
+  color: #fef8ff;
   background-color: grey;
   padding: 15px;
   width: 200px;
@@ -47,15 +47,23 @@ p {
 }
 
 .card-body1 {
-  background-color: #e9baf4;
+  background-color: #f7e0fc;
 }
 
 .card-body2 {
-  background-color: #d8afe2;
+  background-color: #ead8ef;
 }
 
 .card-body3 {
-  background-color: #b89bbf;
+  background-color: #dccde0;
+}
+
+.card-text {
+  margin: inherit;
+}
+
+.card-title {
+  margin: inherit;
 }
 
 /*# sourceMappingURL=style.css.map */

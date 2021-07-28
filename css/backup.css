@@ -265,7 +265,7 @@ a:hover {
 /*gradiente COMO COMPRAR*/
 
 #grad {
- background-image: linear-gradient(purple, grey);
+ background-image: linear-gradient(#fbebff, #d8afe2);
 }
 
 /*Animación*/
